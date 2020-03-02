@@ -1,2 +1,4 @@
 # Onion-NotOnion
-Ontion/Notonion Classification with LSTM
+Ontion/NotOnion Classification with LSTM
+Data from here: https://www.kaggle.com/chrisfilo/onion-or-not
+Made with Pytorch
